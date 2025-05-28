@@ -49,6 +49,7 @@ class Token {
 private:
     // Declaring the private member char* text to store the dynamically allocated C-string
     char* text;
+    char* allocateText(const char* str); 
 
 public:
     // Declaring constructors
