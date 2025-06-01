@@ -1,4 +1,4 @@
-```cpp
+
 // TO-DO for IndexedToken.cpp
 // Purpose: Implement IndexedToken class member functions to manage a Token and its line numbers.
 

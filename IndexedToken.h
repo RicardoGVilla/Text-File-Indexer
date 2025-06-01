@@ -1,4 +1,3 @@
-```
 // TO-DO for IndexedToken.h
 // Purpose: Declare the IndexedToken class to aggregate a Token and its list of line numbers.
 

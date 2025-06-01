@@ -1,4 +1,3 @@
-```cpp
 // TO-DO for DLList.h
 // Purpose: Declare the DLList class to manage a doubly linked list of IndexedToken objects.
 
